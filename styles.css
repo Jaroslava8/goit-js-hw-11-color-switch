@@ -1,0 +1,17 @@
+.start{
+    color: black;
+    border-radius: 10px;
+    border-color: white;
+    background-color: green;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.stop{
+    color: black;
+    border-radius: 10px;
+    border-color: white;
+    background-color: red;
+    padding: 5px;
+    border: 2px solid black; 
+}
